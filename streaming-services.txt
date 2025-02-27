@@ -1,4 +1,4 @@
-youtube.com
+
 vimeo.com
 dailymotion.com
 netflix.com
@@ -18,3 +18,4 @@ bilibili.com
 vidio.com
 viu.com
 wetv.com
+joox.com
