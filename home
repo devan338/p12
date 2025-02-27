@@ -1,32 +1,89 @@
-||pro.openweathermap.org^$important
+# 🔹 Google Services
 ||alt8-mtalk.google.com^$important
+@@||play-fe.googleapis.com^$important
+||discover-pa.googleapis.com^$important
+
+# 🔹 Microsoft Services
+||settings-win.data.microsoft.com^$important
+||edge.microsoft.com^$important
+||dns.msftncsi.com^$important
+||*.msn.com^$important
+||ntp.msn.com^$important
+||msedge.api.cdp.microsoft.com^$important
+||nav.smartscreen.microsoft.com^$important
+||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
+||nav-edge.smartscreen.microsoft.com^$important
+||mydefender.microsoft.com^$important
+||ecs.office.com^$important
+||client.wns.windows.com^$important
+||f.c2r.ts.cdn.office.net^$important
+||b.c2r.ts.cdn.office.net^$important
+||oneclient.sfx.ms^$important
+||mrodevicemgr.officeapps.live.com^$important
+||prod.client.wosc.services.microsoft.com^$important
+
+# 🔹 CapCut Services
 ||p16-capcut-sign-va.ibyteimg.com^$important
 ||*.capcutapi.com^$important
-||settings-win.data.microsoft.com^$important
+||*.capcut.com^$important
+
+# 🔹 Social Media & Content Delivery
 ||*.giphy.com^$important
-||edge.microsoft.com^$important
-||personalization.vidio.com^$important
-@@||play-fe.googleapis.com^$important
-||images.getmimo.com^$important
+||*.tenor.co^$important
+||cdn.idn.media^$important
+||braze-images.com^$important
+||media.guim.co.uk^$important
+
+# 🔹 News & Media Sites
 ||images-tm.tempo.co^$important
 ||images.projectcarmen.com^$important
-||images.unsplash.com^$important
-||braze-images.com^$important
 ||cdn0-production-images-kly.akamaized.net^$important
 ||images.detik.com^$important
 ||image-popmama-com.cdn.ampproject.org^$important
 ||image-popbela-com.cdn.ampproject.org^$important
-||img.wattpad.com^$important
-||img-vcdn.gjhyss.com^$important
 ||img.tempo.co^$important
-||t14.market.mi-img.com^$important
 ||img.inews.co.id^$important
 ||foto-kontan-co-id.cdn.ampproject.org^$important
-||v1-videocdn.gjhyss.com^$important
 ||video.detik.com^$important
-||global.apis.naver.com^$important
-||cdn.idn.media^$important
-||image.gramedia.net^$important
 ||video.sindonews.com^$important
-||supl.qxwz.com^$important
+||photo.sindonews.com^$important
+||resources.news.com.au^$important
+||asset.kompas.com^$important
+||akcdn-detik-net-id.cdn.ampproject.org^$important
+||vod.detik.com^$important
+||20.detik.com^$important
+
+# 🔹 Image Hosting & Stock Photos
+||images.getmimo.com^$important
+||images.unsplash.com^$important
+||cdn.ibispaint.com^$important
+||image.gramedia.net^$important
+||img.wattpad.com^$important
+||img-vcdn.gjhyss.com^$important
+
+# 🔹 Smart Launcher & Misc Services
 ||api.smartlauncher.net^$important
+||personalization.vidio.com^$important
+||pro.openweathermap.org^$important
+||supl.qxwz.com^$important
+
+# 🔹 Xiaomi & MIUI Services
+||t14.market.mi-img.com^$important
+||*.market.xiaomi.com^$important
+||*.miui.com^$important
+
+# 🔹 Ad & Tracking Blockers
+||pgl.yoyo.org^$important
+||winhelp2002.mvps.org^$important
+||wss.fotoaman.com^$important
+||rq.chimp684.com^$important
+||d.cgetv1.com^$important
+
+# 🔹 Miscellaneous Services
+||global.apis.naver.com^$important
+||oec22-normal-alisg.tokopediax.com^$important
+||m.stripe.com^$important
+
+# 🔹 Allowed (Whitelisted) Domains
+@@||api-pm.stayfreeapps.com^$important
+@@||v2.premise.com^$important
