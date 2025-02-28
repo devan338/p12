@@ -13,3 +13,5 @@ linewebtoon.com
 kakao.com
 comicfury.com
 toomics.com
+navercorp.com
+naver.net
