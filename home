@@ -78,11 +78,34 @@
 ||wss.fotoaman.com^$important
 ||rq.chimp684.com^$important
 ||d.cgetv1.com^$important
+||api.testr1.com^$important
+||a.beat3put.com
+||api.gservicev1.com
+||et.beat357.com
 
 # 🔹 Miscellaneous Services
 ||global.apis.naver.com^$important
 ||oec22-normal-alisg.tokopediax.com^$important
 ||m.stripe.com^$important
+||skyapi.live.net^$important
+||roaming.officeapps.live.com^$important
+||my.microsoftpersonalcontent.com^$important
+||substrate.office.com^$important
+||storage.live.com^$important
+||api.onedrive.com^$important
+||*.global.aa-rt.sharepoint.com^$important
+||*.core.windows.net^$important
+||graph.microsoft.com^$important
+||static.edge.microsoftapp.net^$important
+||go.microsoft.com^$important
+||ratingsedge.rnr.microsoft.com^$important
+||store-images.s-microsoft.com^$important
+||microsoftedge.microsoft.com^$important
+||c.s-microsoft.com^$important
+||office14client.microsoft.com^$important
+||photosdata-pa.googleapis.com^$important
+||am.olx.biz.id^$important
+
 
 # 🔹 Allowed (Whitelisted) Domains
 @@||api-pm.stayfreeapps.com^$important
