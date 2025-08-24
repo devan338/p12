@@ -2,8 +2,20 @@
 ||alt8-mtalk.google.com^$important
 @@||play-fe.googleapis.com^$important
 ||discover-pa.googleapis.com^$important
+||nearbysharing-pa.googleapis.com^$important
+||tenor.googleapis.com^$important
+||sticker-pa.googleapis.com^$important
+||rcs-acs-mcc510.jibe.google.com^$important
+||photosdata-pa.googleapis.com^$important
+||instantmessaging-pa.googleapis.com^$important
+||inbox.google.com^$important
+||searchlite-pa.googleapis.com^$important
+||people-pa.googleapis.com^$important
+
 
 # 🔹 Microsoft Services
+||odc.officeapps.live.com^$important
+||wdcpalt.microsoft.com^$important
 ||settings-win.data.microsoft.com^$important
 ||edge.microsoft.com^$important
 ||dns.msftncsi.com^$important
@@ -21,11 +33,45 @@
 ||oneclient.sfx.ms^$important
 ||mrodevicemgr.officeapps.live.com^$important
 ||prod.client.wosc.services.microsoft.com^$important
+||tse1.mm.bing.net^$important
+||rewards.bing.com^$important
+||thf.bing.com^$important
+||r.bing.com^$important
+||th.bing.com^$important
+||*.rewardsplatform.microsoft.com^$important
+||edge-consumer-static.azureedge.net^$important
+||fd.api.iris.microsoft.com^$important
+||wdcp.microsoft.com^$important
+||skyapi.live.net^$important
+||roaming.officeapps.live.com^$important
+||my.microsoftpersonalcontent.com^$important
+||substrate.office.com^$important
+||storage.live.com^$important
+||api.onedrive.com^$important
+||*.global.aa-rt.sharepoint.com^$important
+||*.core.windows.net^$important
+||graph.microsoft.com^$important
+||static.edge.microsoftapp.net^$important
+||go.microsoft.com^$important
+||ratingsedge.rnr.microsoft.com^$important
+||store-images.s-microsoft.com^$important
+||microsoftedge.microsoft.com^$important
+||nleditor.osi.office.net^$important
+||c.s-microsoft.com^$important
+||office14client.microsoft.com^$important
+||drivefrontend-pa.googleapis.com^$important
 
 # 🔹 CapCut Services
 ||p16-capcut-sign-va.ibyteimg.com^$important
 ||*.capcutapi.com^$important
 ||*.capcut.com^$important
+||*.ibyteimg.com^$important
+||*.ibytedtos.com^$important
+||*.byteeffecttos-g.com^$important
+||*.wattpad.com^$important
+||g.alicdn.com^$important
+||*.lemon8-app.com^$important
+||*.tiktokcdn-eu.com^$important
 
 # 🔹 Social Media & Content Delivery
 ||*.giphy.com^$important
@@ -52,6 +98,14 @@
 ||akcdn-detik-net-id.cdn.ampproject.org^$important
 ||vod.detik.com^$important
 ||20.detik.com^$important
+||pict-sindonews-net.cdn.ampproject.org^$important
+||assets-suara-com.cdn.ampproject.org^$important
+||asset-kompas-com.cdn.ampproject.org^$important
+||awsimages-detik-net-id.cdn.ampproject.org^$important
+||asset-kompas-com.cdn.ampproject.org^$important
+||awsimages-detik-net-id.cdn.ampproject.org^$important
+||pict-sindonews-net.cdn.ampproject.org^$important
+||assets-suara-com.cdn.ampproject.org^$important
 
 # 🔹 Image Hosting & Stock Photos
 ||images.getmimo.com^$important
@@ -105,6 +159,12 @@
 ||office14client.microsoft.com^$important
 ||photosdata-pa.googleapis.com^$important
 ||am.olx.biz.id^$important
+||ab.char8class.com^$important
+||et.puts23.com^$important
+||ninite.com^$important
+||cdngarenanow-a.akamaihd.net^$important
+||getemoji.com^$important
+
 
 
 # 🔹 Allowed (Whitelisted) Domains
