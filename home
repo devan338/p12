@@ -60,6 +60,11 @@
 ||c.s-microsoft.com^$important
 ||office14client.microsoft.com^$important
 ||drivefrontend-pa.googleapis.com^$important
+||ctldl.windowsupdate.com^$important
+||g.live.com^$important
+||*.dds.microsoft.com^$important
+||*.update.microsoft.com^$important
+||*.ndcpp-os.com^$important
 
 # 🔹 CapCut Services
 ||p16-capcut-sign-va.ibyteimg.com^$important
@@ -133,9 +138,12 @@
 ||rq.chimp684.com^$important
 ||d.cgetv1.com^$important
 ||api.testr1.com^$important
-||a.beat3put.com
-||api.gservicev1.com
-||et.beat357.com
+||a.beat3put.com^$important
+||api.gservicev1.com^$important
+||et.beat357.com^$important
+||a.ckupdate.com^$important
+||cdn-exp-sg-recommend.pt.xiaomi.com^$important
+||assets.cpcdn.com^$important
 
 # 🔹 Miscellaneous Services
 ||global.apis.naver.com^$important
