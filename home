@@ -125,7 +125,7 @@
 ||api.smartlauncher.net^$important
 ||personalization.vidio.com^$important
 ||pro.openweathermap.org^$important
-||supl.qxwz.com^$important
+
 
 # 🔹 Xiaomi & MIUI Services
 ||t14.market.mi-img.com^$important
@@ -149,6 +149,7 @@
 ||ab.char8class.com^$important
 ||et.puts23.com^$important
 ||ninite.com^$important
+||supl.qxwz.com^$important
 
 # 🔹 Miscellaneous Services
 ||global.apis.naver.com^$important
