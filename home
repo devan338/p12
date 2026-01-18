@@ -103,6 +103,13 @@
 ||inputsuggestions.msdxcdn.microsoft.com^$important
 ||notification.m365.svc.cloud.microsoft^$important
 ||dev.virtualearth.net^$important
+||onedrive.live.com^
+||skyapi.onedrive.live.com^
+||dropbox.com^
+||dropboxapi.com^
+||box.com^
+||mega.nz^
+
 
 #wps
 ||api.wps.com^$important
@@ -130,6 +137,32 @@
 ||cdn.idn.media^$important
 ||braze-images.com^$important
 ||media.guim.co.uk^$important
+||apkpure.com^
+||apkmirror.com^
+||aptoide.com^
+||googlevideo.com^      ! Arus data utama YouTube
+||ytimg.com^            ! Thumbnail YouTube (bisa ribuan gambar)
+||netflix.com^
+||nflxvideo.net^
+||twitch.tv^
+||tiktokv.com^          ! Arus data video TikTok
+||byteoversea.com^      ! Infrastruktur TikTok
+||vimeo.com^
+||fbcdn.net^            ! Gambar & Video Facebook/Instagram
+||cdninstagram.com^     ! Infrastruktur utama Instagram
+||twimg.com^            ! Gambar di X/Twitter
+||t.me^                 ! Jika tidak pakai Telegram, blokir ini
+||discord.com^
+||discordapp.net^       ! Aset gambar Discord
+||photos.googleapis.com^ ! Google Photos sync
+||content-storage.googleapis.com^
+||crashlytics.com^      ! Laporan log berukuran besar
+||windowsupdate.com^    ! Update Windows (sangat besar)
+||g.akamaiedge.net^     ! Jalur distribusi update beberapa vendor
+||doubleclick.net^
+||adnxs.com^
+||quantserve.com^
+
 
 # 🔹 News & Media Sites
 ||images-tm.tempo.co^$important
@@ -182,6 +215,27 @@
 ||vc-brain.ndcpp-os.com^$important
 ||vc-mirror.ndcpp-os.com^$important
 ||*.mediatek.com^$important
+||app.market.xiaomi.com^
+||api.getapps.xiaomi.com^
+||mirror.temp.account.xiaomi.com^
+||update.avlyun.sec.miui.com^
+||oppomobile.com^
+||heytap.com^
+||heytapdownload.com^
+||nearme.com.cn^
+||v-appstore.com^
+||dbankcdn.com^
+||hicloud.com^
+||huaweistore.com^
+||appgallery.huawei.com^
+||samsungapps.com^
+||galaxy.store^
+||g-msn.com^
+||samsungcloud.com^
+||samsung-gamelauncher.com^
+||game.xiaomi.com^
+||samsung-gamelauncher.com^
+
 
 # 🔹 Ad & Tracking Blockers
 ||pgl.yoyo.org^$important
@@ -234,6 +288,24 @@
 ||readthetale.com^$important
 ||api.vidio.com^$important
 ||ads.muslim.or.id^$important
+||quickconnect.to^   
+||myqnapcloud.com^  
+||ota.transsion.com^
+||otadownload.transsion.com^
+||ota.oppomobile.com^
+||p-ota.oppomobile.com^
+||ota.vivo.com.cn^
+||otatest.vivo.com.cn^
+||update.realme.com^
+||update.miui.com^
+||ota.miui.com^
+||bigota.d.miui.com^
+||hugeota.d.miui.com^
+||samsungotaupdate.com^
+||fota-cloud-dn.osupdate.samsung.com^
+||osupdate.samsung.com^
+||vas.samsungapps.com^
+
 
 #tools
 ||static.canva.com^$important
@@ -254,6 +326,42 @@
 ||idgame.shopee.co.id^$important
 ||oec16-normal-alisg.tokopediax.com^$important
 ||oec-im-sg.tokopediax.com^$important
+
+! --- [BLOKIR CLOUD TAMBAHAN & STORAGE] ---
+
+! 1. Cloud Populer (Sering digunakan di Android/PC)
+||dropbox.com^
+||dropboxapi.com^
+||box.com^
+||boxcloud.com^
+||mega.nz^
+||mega.co.nz^
+||pcloud.com^
+
+! 2. Cloud Brand Tiongkok (Sering ada di HP Xiaomi, Oppo, Vivo, Realme)
+||mi-img.com^         ! Xiaomi Cloud
+||micloud.xiaomi.com^
+||heytapcloud.com^    ! Oppo/Realme/Vivo Cloud
+||finland-api.hicloud.com^ ! Huawei Cloud
+
+! 3. Transfer File & Cloud Storage Umum
+||wetransfer.com^
+||mediafire.com^
+||4shared.com^
+||zippyshare.com^
+||terabox.com^        ! Sangat populer saat ini (dulu Dubox)
+||teraboxcdn.com^
+
+! 4. Cloud untuk Developer/Tech-Savvy (Sering konsumsi data besar)
+||github.com^         ! Jika tidak perlu akses coding
+||bitbucket.org^
+||gitlab.com^
+
+! 5. Sync Catatan Berbasis Cloud (Kadang sinkronisasi gambar/file besar)
+||evernote.com^
+||notion.so^
+||obsidian.md^
+
 
 
 # 🔹 Allowed (Whitelisted) Domains
