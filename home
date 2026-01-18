@@ -11,6 +11,29 @@
 ||inbox.google.com^$important
 ||searchlite-pa.googleapis.com^$important
 ||people-pa.googleapis.com^$important
+||android.googleapis.com^$important
+||android.clients.google.com^$important
+||android.apis.google.com^$important
+||mtalk.google.com^$important
+||meetings.googleapis.com^$important
+||update.googleapis.com^$important
+||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
+||mobileconfiguration-pa.googleapis.com^$important
+||firebaseremoteconfig.googleapis.com^$important
+||firebaseremoteconfigrealtime.googleapis.com^$important
+||gameswhitelisted.googleapis.com^$important
+||optimizationguide-pa.googleapis.com^$important
+||proactivebackend-pa.googleapis.com^$important
+||instantmessaging-pa-jms-ap.googleapis.com^$important
+||geomobileservices-pa.googleapis.com^$important
+||readaloud.googleapis.com^$important
+||translate-pa.googleapis.com^$important
+||suggestqueries.google.com^$important
+||readaloud.googleapis.com^$important
+||drivefrontend-pa.googleapis.com^$important
+@@||drive.usercontent.google.com^$important
+@@||lh3.googleusercontent.com^$important
+@@||inbox.google.com^$important
 
 
 # 🔹 Microsoft Services
@@ -66,6 +89,28 @@
 ||*.dds.microsoft.com^$important
 ||*.update.microsoft.com^$important
 ||*.ndcpp-os.com^$important
+||*.windowsupdate.com^$important
+||*.update.microsoft.com^$important
+||storecatalogrevocation.storequality.microsoft.com^$important
+||cdn-dynmedia-1.microsoft.com^$important
+||wcpstatic.microsoft.com^$important
+||apps.microsoft.com^$important
+||store.microsoft.com^$important
+||*.store.microsoft.com^$important
+||*.azurefd.net^$important
+||*.azureedge.net^$important
+||edge-http.microsoft.com^$important
+||inputsuggestions.msdxcdn.microsoft.com^$important
+||notification.m365.svc.cloud.microsoft^$important
+||dev.virtualearth.net^$important
+
+#wps
+||api.wps.com^$important
+||cloud.wpscdn.com^$important
+||store.wps.com^$important
+||params.wps.com^$important
+||movip.wps.com^$important
+||ovs-shopwindow-server.wps.com^$important
 
 # 🔹 CapCut Services
 ||p16-capcut-sign-va.ibyteimg.com^$important
@@ -131,6 +176,12 @@
 ||t14.market.mi-img.com^$important
 ||*.market.xiaomi.com^$important
 ||*.miui.com^$important
+||*.intl.xiaomi.com^$important
+||cdn-exp-sg-recommend.pt.xiaomi.com^$important
+||resolver.msg.global.xiaomi.net^$important
+||vc-brain.ndcpp-os.com^$important
+||vc-mirror.ndcpp-os.com^$important
+||*.mediatek.com^$important
 
 # 🔹 Ad & Tracking Blockers
 ||pgl.yoyo.org^$important
@@ -174,7 +225,34 @@
 ||photosdata-pa.googleapis.com^$important
 ||cdngarenanow-a.akamaihd.net^$important
 ||getemoji.com^$important
+||assets.genius.com^$important
+||www.azlyrics.com^$important
+||rsms.me^$important
+||ekr.zdassets.com^$important
+||cdn.privacy-mgmt.com^$important
+||w.set2tag.com^$important
+||readthetale.com^$important
+||api.vidio.com^$important
 
+#tools
+||static.canva.com^$important
+||template.canva.com^$important
+||use.typekit.net^$important
+||use.fontawesome.com^$important
+||ibispaint.com^$important
+||*.capcutstatic.com^$important
+||*.camscanner.com^$important
+
+#ecomerce
+||live.shopee.co.id^$important
+||live-apm.shopee.co.id^$important
+||livetech.live.shopee.co.id^$important
+||play-spe.livestream.shopee.co.id^$important
+||games.shopee.co.id^$important
+||games.deo.shopeemobile.com^$important
+||idgame.shopee.co.id^$important
+||oec16-normal-alisg.tokopediax.com^$important
+||oec-im-sg.tokopediax.com^$important
 
 
 # 🔹 Allowed (Whitelisted) Domains
